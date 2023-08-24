@@ -1,0 +1,77 @@
+
+
+.budah{
+  text-align: left;
+  margin-left: 5px;
+  font-style: normal;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: solid;
+  display: flex;
+  margin: 16px 0px 16px 0px;
+  margin-left: 20px;
+  height: 15px;
+  display: inline-flex;
+}
+
+.budah1{
+  font-size: medium;
+  text-decoration: coral;
+  font-size: medium;
+  font-display: coral;
+  text-decoration: solid;
+  align-items: left;
+  text-align: left;
+  
+}
+
+.dan{
+  display:inline-flex;
+  justify-content: right;
+  margin-right: 600px;
+ font-size: x-large;
+}
+
+.dan2{
+  display: inline-flex;
+  font-family:'Times New Roman', Times, serif
+  width: fit-content;
+}
+
+.danny{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.john{
+  margin-right: 50px;
+  display: flex;
+
+}
+
+.dan3{
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 0px;
+}
+
+
+.dan4{
+  display: flex;
+  margin-top: 50px;
+}
+
+.dan5{
+  display: grid; 
+  width: 450px;
+  grid-template-columns: 1fr;
+}
+ .dan7
+ {
+  display: inline-flex;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: 0px;
+  padding-top: 70px;
+ }
