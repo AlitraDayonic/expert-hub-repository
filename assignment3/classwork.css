@@ -1,0 +1,40 @@
+*
+{
+  padding: 0px;
+  margin: 0px;
+  
+}
+
+
+.form-container{
+  height: 29px;
+  margin-top: 20px;
+}
+.me{
+  height: 20px;
+  width: 100px;
+
+}
+.reach-us{
+  font-size: 150px;
+  color: rgb(78, 76, 76) ;
+}
+
+input{
+  padding: .5em;
+  border: solid 5px rgb(221, 198, 198);
+  
+  
+}
+
+.Address{
+  height: 50px;
+}
+
+/* .input[type="text"] {
+  width: 15em;
+} */
+.fullname {
+  padding: .5em;
+  border: solid 20px black;
+}
