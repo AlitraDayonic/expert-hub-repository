@@ -1,0 +1,62 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.background{
+  background-color: antiquewhite;
+}
+
+input {
+  border: 1px solid black;
+  height: 30px;
+  border-radius: 8px;
+  background-color: rgb(240, 232, 234);
+  border: 5px;
+}
+
+input:hover{
+  box-shadow: 0 0 5px rgba(0,0,0,.3);
+
+}
+
+.reach-us{
+color: black;
+font-size: 25px;
+font-family: 'Lucida Sans', 
+'Lucida Sans Regular', 'Lucida Grande', 
+'Lucida Sans Unicode', Geneva,
+ Verdana, sans-serif;
+ text-align: center;
+}
+
+::placeholder{
+  color: rgb(207, 181, 181);
+  font-size: 15px;
+  opacity: 1;
+  background: local;
+}
+
+label{
+  color: rgb(78, 76, 76);
+}
+
+.form {
+  margin-left: 20px;
+  
+  
+}
+
+.firstname{
+  padding: 5px solid black;
+}
+
+#baby{padding: 5px solid black;
+
+}
+
+#submit{
+  padding: 5px;
+  background-color: rgb(214, 219, 219);
+}
